@@ -8,6 +8,7 @@ Third person character controller bike physics and movement mechanic.
 WIP
 
 # Current Features:
+1. Basic Bike Type Physics Setup
 
 
 # Known Bugs:
