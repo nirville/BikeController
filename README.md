@@ -19,4 +19,5 @@ WIP
 2. Dhoom original movie (Bike + heist game modes ?)
 3. VR Bike Races
 4. Realtime road and famous highways
+5. Mad Max fight mechanics
 
