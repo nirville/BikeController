@@ -5,7 +5,10 @@ Simple Bike Controller Mechanic made in Unreal 5
 
 Third person character controller bike physics and movement mechanic.
 
-WIP
+# Next Action Items
+1. Working Basic controller with or without character
+2. Character Model Animation and bike treading
+
 
 # Current Features:
 1. Basic Bike Type Physics Setup
